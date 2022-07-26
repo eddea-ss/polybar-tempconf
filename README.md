@@ -78,15 +78,15 @@ Comands for bash terminal
 
    $ nano config
 
-   ****** insert where display module-[left, center, right] *****
+   insert where display "module-*"
 
-   $ modules-center= temp cpu memory
+       modules-center= temp cpu memory
 
    ***********************************
 
    *note*
    
-   if you have other modules in "modules" file, you can add in this part
+   if you have other modules in "modules" file, you can add more in this part
 
    for example:
 
@@ -99,7 +99,7 @@ Comands for bash terminal
 
 ## 5 - Reset polybar
 
-thanks to denysvitali for the solution, and to archcraft for the created modules
+thanks to denysvitali for the solution, and archcraft for the created modules
 
 - deny repo
 https://github.com/denysvitali/polybar-config.git
