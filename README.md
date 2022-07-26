@@ -48,7 +48,7 @@ Comands for bash terminal
    *note:*
    
    if you want, you can install other sensor package.
-   but you need change the bash code in "scripts/temp.sh"
+   but you need change the bash code in "modules->temp->exec"
 
 
 
@@ -94,7 +94,7 @@ Comands for bash terminal
       modules-center = mpd
       modules-right = volume sep backlight sep network sep battery sep 202
    
-   I will leave in repo the modules that are configured in archcraft by default
+   I will leave in repo. the modules that are configured in archcraft by default
 
 
 ## 5 - Reset polybar
