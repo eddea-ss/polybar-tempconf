@@ -1,5 +1,5 @@
-# polybar-tempcore-config
- Fix and config temp core (bspwm) polybar in archcraft linux system
+#polybar-tempcore-config
+#Fix and config temp core (bspwm) polybar in archcraft linux system
 ![image](https://user-images.githubusercontent.com/14878867/180899078-b3769402-92ee-4b29-83ac-229483e4d8e3.png)
 
 
@@ -10,14 +10,14 @@ Fix and config (bspwm) polybar in archcraft linux system
 
 Comands for bash terminal
 
-- 1 - Go to your polybar directory, in my case:
+## 1 - Go to your polybar directory, in my case:
 
    $ cd ~/.config/bspwm/polybar/
    
    
    
 
-- 2 - Test running the bash code "scripts/temp.sh" in your terminal
+## 2 - Test running the bash code "scripts/temp.sh" in your terminal
 
    ***** start code in bash ****
    
@@ -52,7 +52,7 @@ Comands for bash terminal
 
 
 
-- 3 - Open file "modules" on your polybar directory and insert module temp:
+## 3 - Open file "modules" on your polybar directory and insert module temp:
 
    $ nano modules
    
@@ -74,7 +74,7 @@ Comands for bash terminal
 
 
 
-- 4 -  Add your module in "config" file:
+## 4 -  Add your module in "config" file:
 
    $ nano config
 
@@ -97,7 +97,7 @@ Comands for bash terminal
    I will leave in repo the modules that are configured in archcraft by default
 
 
-- 5 - Reset polybar
+## 5 - Reset polybar
 
 thanks to denysvitali for the solution, and to archcraft for the created modules
 
