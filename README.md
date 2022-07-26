@@ -12,7 +12,7 @@ Comands for bash terminal
 
 ## 1 - Go to your polybar directory, in my case:
 
-   $ cd ~/.config/bspwm/polybar/
+      $ cd ~/.config/bspwm/polybar/
    
    
    
